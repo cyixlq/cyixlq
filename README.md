@@ -1,1 +1,3 @@
-[^_^]:[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyixlq)](https://github.com/anuraghazra/github-readme-stats)
+[![cyixlq's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyixlq&show_icons=true&title_color=fff&bg_color=45,e680da,d365aa&text_color=fff&icon_color=fff&locale=cn&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyixlq&title_color=fff&bg_color=45,e680da,d365aa&text_color=fff&icon_color=fff&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyixlq&repo=LiveEventBus)](https://github.com/cyixlq/LiveEventBus)
