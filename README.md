@@ -11,8 +11,8 @@ I am Yang , and I am young !
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cyixlq&show_icons=true&locale=cn&include_all_commits=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyixlq&locale=cn&layout=compact" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cyixlq&show_icons=true&locale=cn&include_all_commits=true" width="400" height="158"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyixlq&locale=cn&layout=compact" width="400" height="158"/>
 </p>
 
 <p align="center">
@@ -21,6 +21,8 @@ I am Yang , and I am young !
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 </p>
+
+<br>
 
 | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
