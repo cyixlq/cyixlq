@@ -1,3 +1,9 @@
+<style>
+  table {
+    margin: auto;
+  }
+</style>
+
 <h1 align="center">
 I am Yang , and I am young !
 </h1>
@@ -21,12 +27,8 @@ I am Yang , and I am young !
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 </p>
-
-<p align="center">
   
 | 项目                                                         | 描述                                                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [Cwidget](https://github.com/cyixlq/Cwidget)                 | 🍉 目前包含层级选择器和日历选择器两个控件，可自定义布局 ![GitHub Repo stars](https://img.shields.io/github/stars/cyixlq/Cwidget?style=social) |
 | [LiveEventBus](https://github.com/cyixlq/LiveEventBus)       | 🌽 可以自动反注册的事件总线，跟内存泄漏say goodbye ![GitHub Repo stars](https://img.shields.io/github/stars/cyixlq/LiveEventBus?style=social) |
-  
-</p>
