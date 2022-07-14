@@ -1,9 +1,3 @@
-<style>
-  table {
-    margin: auto;
-  }
-</style>
-
 <h1 align="center">
 I am Yang , and I am young !
 </h1>
